@@ -7,14 +7,6 @@ Soy un desarrollador Web Trainee pero con muchas ganas de aprender y seguir crec
 
 ## Aquí dejo algunos repositorios(Son proyectos que vienen en los cursos).
 
--[Aplicación de presupuesto](https://github.com/Fernando-Coronel/Curso-Desarrollo-Web/tree/main/Proyectos/Aplicacion%20Presupuesto)
-
--[Calculadora bàsica con Bootstrap 5](https://github.com/Fernando-Coronel/Curso-Desarrollo-Web/tree/main/Proyectos/Calculadora%20con%20Boostrap)
-
--[Listado de personas](https://github.com/Fernando-Coronel/Curso-Desarrollo-Web/tree/main/Proyectos/Listado%20de%20Personas)
-
--[Reloj digital](https://github.com/Fernando-Coronel/Curso-Desarrollo-Web/tree/main/Proyectos/Reloj%20Digital)
-
 -[Simulador de ventas de ropa con programación orientada a objetos](https://github.com/Fernando-Coronel/Repaso_JS/blob/main/01_sistema_de_ventas.js)
 
 -[Simulador de ventas de computadoras con programación orientada a objetos](https://github.com/Fernando-Coronel/Repaso_JS/blob/main/02_mundo_pc.js)
