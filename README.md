@@ -1,6 +1,6 @@
 # ¡Hola! soy Fernando Coronel 👋
 
-Soy un desarrollador Web Trainee con muchas ganas de aprender y seguir creciendo profesionalmente como Desarrollador Fron-End, Me apasiona crear páginas web y aprender a crear aplicaciones web, Actualmente estoy aprendiendo [HTML](https://developer.mozilla.org/es/docs/Web/HTML), [CSS](https://developer.mozilla.org/es/docs/Learn/CSS) y [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) y posteriormente una vez reforzados los conocimientos seguir con [React](https://es.reactjs.org/).
+Soy un desarrollador Web Trainee con muchas ganas de aprender y seguir creciendo profesionalmente como Desarrollador Fron-End, Me apasiona crear páginas web y aprender a crear aplicaciones web, Actualmente estoy aprendiendo [HTML](https://developer.mozilla.org/es/docs/Web/HTML), [CSS](https://developer.mozilla.org/es/docs/Learn/CSS) y [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript), posteriormente una vez reforzados los conocimientos seguir con [React](https://es.reactjs.org/).
 
 
 
