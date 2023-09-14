@@ -7,7 +7,7 @@ Soy un desarrollador Web Trainee con muchas ganas de aprender y seguir creciendo
 
 ##Aquí dejo algunos repositorios(Son proyectos que vienen en los cursos).
 
--[Simulador de ventas de ropa con programación orientada a objetos](https://github.com/Fernando-Coronel/Repaso_JS/blob/main/01_sistema_de_ventas.js)
+-[Simulador de ventas de ropa con programación orientada a objetos](https://github.com/Fernando-Coronel/Repaso_JS/blob/main/Curso_JavaScript/01_sistema_de_ventas.js)
 
 -[Simulador de ventas de computadoras con programación orientada a objetos](https://github.com/Fernando-Coronel/Repaso_JS/blob/main/02_mundo_pc.js)
 
