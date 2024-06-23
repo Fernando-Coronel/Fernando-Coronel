@@ -14,7 +14,7 @@ Aquí dejo algunos repositorios(Son proyectos que vienen en los cursos).
 
 
 
-Puedes encontrarme en:
+Redes sociales:
 
 [LinkedIn](www.linkedin.com/in/fernando-coronel).
 
